@@ -1,46 +1,93 @@
-# Hi... I'm Asilbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=I'm+Asilbek;Frontend+Software+Engineer;Turning+Coffee+into+Scalable+Code;Crafting+Digital+Experiences" alt="Typing SVG" />
+</h1>
 
-I am **Suvonov Asilbek** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Uzbekistan-success?style=flat-square&logo=googlemaps" alt="Location"/>
+</p>
 
-## 👨‍💻 About Me  
-I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
-- 🌟 Exploring **AI-driven technologies**  
-- 🎮 Building **game-based applications**  
-- 🚀 Diving into **blockchain technology**  
+---
 
-- Open to project collaborations
-- You can reach me through:
+### ⚡ Quick Overview
 
-**My phone number:** +998 88 703 13 86
+Men foydalanuvchi tajribasini (UX) birinchi o'ringa qo'yadigan, **Performance-First** tamoyili asosida ishlaydigan Frontend injeneriman. Faqatgina vizual emas, balki arxitekturaviy jihatdan mustahkam tizimlar qurishga ixtisoslashganman.
 
-## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
-<a href="https://instagram.com/asilc1k_ake" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
-<a href="https://t.me/Knyaz_blvck" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
+- 🏗️ **Architecture:** Feature-Sliced Design (FSD) va modulli tizimlar ustida ishlayman.
+- 🚀 **Optimization:** Web Vitals va Runtime performance bo'yicha yuqori natijalar (90+ score).
+- 🎨 **Visuals:** Murakkab animatsiyalar va interaktiv UI (GSAP, Framer Motion).
 
+---
 
+### 🛠 Modern Tech Stack
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Core Development</h4>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux" /><br/>
+      <code>TypeScript</code>, <code>React (Hooks/Context)</code>, <code>Next.js 14+</code>, <code>State Management (Zustand/RTK)</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 UI & Styling</h4>
+      <img src="https://skillicons.dev/icons?i=tailwind,sass,styledcomponents,figma" /><br/>
+      <code>Tailwind CSS</code>, <code>Design Systems</code>, <code>Responsive UI/UX</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Tooling & DevOps</h4>
+      <img src="https://skillicons.dev/icons?i=git,vite,webpack,vite,pnpm" /><br/>
+      <code>Vite</code>, <code>CI/CD Pipelines</code>, <code>Code Quality Tools (ESLint/Prettier)</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ Animation & 3D</h4>
+      <img src="https://skillicons.dev/icons?i=motion,framer" /><br/>
+      <code>Three.js (R3F)</code>, <code>GSAP</code>, <code>Framer Motion</code>
+    </td>
+  </tr>
+</table>
 
+---
 
-## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,bootstrap,ts,figma,bash,codepen,react,git,github,vscode,npm,ps,ai,pycharm,pug,vite,webpack,gitlab,sublime,notion,linux,&perline=15)](#)
+### 💎 Featured Engineering Projects
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+| Project | Key Contributions | Tech Stack |
+| :--- | :--- | :--- |
+| **Enterprise Dashboard** | Real-time ma'lumotlar oqimi va murakkab grafiklar optimizatsiyasi. | `Next.js`, `RTK Query`, `Chart.js` |
+| **E-Commerce Core** | SSR va Image Optimization orqali 2s dan kam yuklanish tezligi. | `Next.js`, `Tailwind`, `Stripe` |
+| **3D Creative Portfolio** | WebGL va Shaders yordamida interaktiv interfeys yaratish. | `React Three Fiber`, `GSAP` |
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=ff0000) -->
+---
 
-![GitHub followers](https://img.shields.io/github/followers/AslDeveloper07?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
+### 📊 Engineering Statistics
 
-| [![GitHub Streak](https://streak-stats.demolab.com?user=AslDeveloper07&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![AslDeveloper07's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslDeveloper07&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
-| ------------- | ------------- |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asilbek-suvonov&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek-suvonov&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek-suvonov&theme=tokyonight&hide_border=true" width="94%" />
+</p>
 
+---
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qurbonoff11)](#) -->
+### 🎯 2024 - 2025 Focus
+- [ ] **Low-level Performance:** WebAssembly (Wasm) va Rust'ni Frontendda qo'llash.
+- [ ] **Open Source:** Mashhur UI kutubxonalariga kontribut qilish.
+- [ ] **Deep Dive:** Server Components va Streaming arxitekturasini chuqur o'rganish.
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslDeveloper07&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
-### GitHub Profile Insights
-
-<!-- [![AslDeveloper07's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&bg_color=323232&title_color=00ffff)](https://github.com/AslDeveloper07) -->
-
-[![Asilbek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AslDeveloper07&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
+  <strong>Stay Creative. Build Better.</strong>
+</p>
