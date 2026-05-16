@@ -163,7 +163,7 @@ const asilbek = {
 <a href="mailto:asilbek.suvonov@example.com">
   <img src="https://img.shields.io/badge/Email-0071ff?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/asilbeksuvonov">
+<a href="https://linkedin.com/in/asilbek-suvonov">
   <img src="https://img.shields.io/badge/LinkedIn-0071ff?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://asilbeksuvonov.vercel.app">
