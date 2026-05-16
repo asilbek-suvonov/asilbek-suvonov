@@ -44,12 +44,12 @@
 
 ```typescript
 const asilbek = {
-  location:  "Karshi, Uzbekistan 🇺🇿",
+  location:  "Karshi, Uzbekistan",
   role:      "Frontend Developer",
   focus:     ["React", "TypeScript", "Next.js"],
   building:  ["QDTU University System", "Sammi LMS"],
   learning:  ["Agentic workflows", "Claude Code", "AI-powered tools"],
-  languages: ["Uzbek 🇺🇿", "Russian 🇷🇺", "English 🇬🇧"],
+  languages: ["Uzbek", "English"],
   hobbies:   ["CS2 🎮", "Lo-fi music 🎧", "Pixel-perfect UI ✨"],
   motto:     "Logic preserved. Design refined. Ship it."
 };
@@ -100,67 +100,20 @@ const asilbek = {
 
 <br />
 
-<!-- ════════════════════ FEATURED PROJECTS ════════════════════ -->
-## 🚀 Featured Work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 QDTU University System</h3>
-      <p align="center">
-        <i>Production university management platform with role-based access, a dark-mode design system, and a fully featured teacher module.</i>
-      </p>
-      <p align="center">
-        <code>React</code>&nbsp;<code>TypeScript</code>&nbsp;<code>Zustand</code>&nbsp;<code>TanStack Query</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Sammi LMS</h3>
-      <p align="center">
-        <i>Trilingual (UZ/RU/EN) learning platform with an animated MacBook + VS Code simulator landing page.</i>
-      </p>
-      <p align="center">
-        <code>Next.js</code>&nbsp;<code>Tailwind</code>&nbsp;<code>Framer Motion</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏫 EduCenter LMS</h3>
-      <p align="center">
-        <i>Full-featured LMS with i18n, skeleton loaders, lazy routes, and granular role-based permissions.</i>
-      </p>
-      <p align="center">
-        <code>React</code>&nbsp;<code>shadcn/ui</code>&nbsp;<code>Zod</code>&nbsp;<code>RHF</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✋ Gesture Recognition</h3>
-      <p align="center">
-        <i>Browser-based gesture control with 10 mapped gestures using MediaPipe — runs entirely client-side.</i>
-      </p>
-      <p align="center">
-        <code>JavaScript</code>&nbsp;<code>MediaPipe</code>&nbsp;<code>HTML5</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
 
 <!-- ════════════════════ GITHUB STATS ════════════════════ -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asilbeksuvonov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071ff&icon_color=0071ff&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asilbeksuvonov&theme=tokyonight&hide_border=true&background=0D1117&ring=0071ff&fire=0071ff&currStreakLabel=0071ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asilbek-suvonov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071ff&icon_color=0071ff&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=asilbek-suvonov&theme=tokyonight&hide_border=true&background=0D1117&ring=0071ff&fire=0071ff&currStreakLabel=0071ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbeksuvonov&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071ff&text_color=ffffff&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek-suvonov&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0071ff&text_color=ffffff&langs_count=8" />
 
 </div>
 
@@ -171,7 +124,7 @@ const asilbek = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbeksuvonov&bg_color=0D1117&color=0071ff&line=0071ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilbek-suvonov&bg_color=0D1117&color=0071ff&line=0071ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -182,7 +135,7 @@ const asilbek = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=asilbeksuvonov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=asilbek-suvonov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
@@ -193,7 +146,7 @@ const asilbek = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/asilbeksuvonov/asilbeksuvonov/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/asilbek-suvonov/asilbek-suvonov/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -215,7 +168,7 @@ const asilbek = {
 
 <div align="center">
 
-<a href="https://t.me/asilbeksuvonov">
+<a href="https://t.me/asilbek-suvonov">
   <img src="https://img.shields.io/badge/Telegram-0071ff?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="mailto:asilbek.suvonov@example.com">
